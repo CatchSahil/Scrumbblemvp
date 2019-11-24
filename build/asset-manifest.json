@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ScrumbbleMVP/static/css/main.43ada4b7.chunk.css",
-    "main.js": "/ScrumbbleMVP/static/js/main.6872766b.chunk.js",
-    "main.js.map": "/ScrumbbleMVP/static/js/main.6872766b.chunk.js.map",
-    "runtime~main.js": "/ScrumbbleMVP/static/js/runtime~main.4ea12bc2.js",
-    "runtime~main.js.map": "/ScrumbbleMVP/static/js/runtime~main.4ea12bc2.js.map",
-    "static/js/2.374ddd70.chunk.js": "/ScrumbbleMVP/static/js/2.374ddd70.chunk.js",
-    "static/js/2.374ddd70.chunk.js.map": "/ScrumbbleMVP/static/js/2.374ddd70.chunk.js.map",
-    "index.html": "/ScrumbbleMVP/index.html",
-    "precache-manifest.ae235221d5936e0a540f7b5a6ac59220.js": "/ScrumbbleMVP/precache-manifest.ae235221d5936e0a540f7b5a6ac59220.js",
-    "service-worker.js": "/ScrumbbleMVP/service-worker.js",
-    "static/css/main.43ada4b7.chunk.css.map": "/ScrumbbleMVP/static/css/main.43ada4b7.chunk.css.map"
+    "main.css": "/static/css/main.43ada4b7.chunk.css",
+    "main.js": "/static/js/main.199a1719.chunk.js",
+    "main.js.map": "/static/js/main.199a1719.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.374ddd70.chunk.js": "/static/js/2.374ddd70.chunk.js",
+    "static/js/2.374ddd70.chunk.js.map": "/static/js/2.374ddd70.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.61934c2920d4bc5de7d7826aaa59f1c3.js": "/precache-manifest.61934c2920d4bc5de7d7826aaa59f1c3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.43ada4b7.chunk.css.map": "/static/css/main.43ada4b7.chunk.css.map"
   }
 }
