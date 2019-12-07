@@ -23,9 +23,8 @@ function HomePage(props) {
         size="medium"
         title="Supercharge 
         your Portfolio"
-        subtitle="A no Nonsense way to create your portfolio.
-        Give yourself a leap "
-        threeDButtonText="Create your Profile"
+        subtitle="Scrummble gives you a powerful way to showcase your projects, skills, case studies, and get discovered as a creative professional."
+        threeDButtonText="Get Earlu Access"
         image="https://res.cloudinary.com/emishalabs/image/upload/v1569170268/portfolio1_ffedm1.svg"
         threeDButtonOnClick={() => {
           router.push("/signup");
@@ -44,7 +43,7 @@ function HomePage(props) {
         subtitle="Try the product out for free."
         buttonText="Get Early Access"
         buttonOnClick={() => {
-          router.push("/pricing");
+          router.push("/");
         }}
       />
     </>

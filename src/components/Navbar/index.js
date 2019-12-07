@@ -53,23 +53,20 @@ function Navbar(props) {
 
             {!auth.user && (
               <>
-              <Link className="navbar-item" to="/signup">
-                How it Works
-              </Link>
-              <Link className="navbar-item" to="/signin">
-                Why Scrumble
-              </Link>
-              <Link className="navbar-item" to="/pricing">
-                Pricing
-              </Link>
-              <Link className="navbar-item" to="/signin">
-                Sign In
-              </Link>
-              <Link className="navbar-item getstarted" to="/signup">
-                Get Started
-                <i className="fas fa-arrow-right"></i>
-              </Link>
-             </>
+                <Link className="navbar-item" to="/signup">
+                  How it Works
+                </Link>
+                <Link className="navbar-item" to="/">
+                  Why Scrumbble
+                </Link>
+                <Link className="navbar-item" to="/signin">
+                  Sign In
+                </Link>
+                <Link className="navbar-item getstarted" to="/signup">
+                  Get Started
+                  <i className="fas fa-arrow-right"></i>
+                </Link>
+              </>
             )}
           </div>
         </div>

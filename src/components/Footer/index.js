@@ -36,9 +36,6 @@ function Footer(props) {
                   <p className="menu-label">Product</p>
                   <ul className="menu-list">
                     <li>
-                      <Link to="/pricing">Pricing</Link>
-                    </li>
-                    <li>
                       <Link to="/faq">FAQ</Link>
                     </li>
                   </ul>
@@ -48,9 +45,6 @@ function Footer(props) {
                 <div className="menu">
                   <p className="menu-label">Company</p>
                   <ul className="menu-list">
-                    <li>
-                      <Link to="/about">About</Link>
-                    </li>
                     <li>
                       <Link to="/contact">Contact</Link>
                     </li>
