@@ -24,14 +24,14 @@ function PricingSection(props) {
             {
               id: "monthly",
               timespan: "Monthly",
-              price: "29",
+              price: "10",
               description:
                 "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequatur numquam aliquam."
             },
             {
               id: "yearly",
               timespan: "Yearly",
-              price: "19",
+              price: "5",
               description:
                 "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequatur numquam aliquam tenetur ad amet inventore hic beatae."
             }

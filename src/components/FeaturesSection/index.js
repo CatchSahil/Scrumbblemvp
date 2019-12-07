@@ -19,16 +19,16 @@ function FeaturesSection(props) {
             columns={2}
             items={[
               {
-                title: "Create your Portfoilio",
+                title: "Creating Portfolio Made Easy",
                 body:
-                  "Creating portfolio has never been easier. Get your portfolio up and running within minutes. Showcase your projects, skills, past work, case studies and many more...",
+                  "Creating and maintaining  portfolio has never been easier. Scrumbble let’s you do this with just some clicks. Connect your custom domain or get a free Scrumble sub domain. It’s all free...",
                 image:
                   "https://res.cloudinary.com/catchsahil/image/upload/v1566759772/postproject_gviqn7.svg"
               },
               {
-                title: "Connect Custom Domain",
+                title: "Case Studies and Documentation",
                 body:
-                  "Scrumble is designed to be flexible to your needs. Take full ownership of your portfolio. Connect your custom domain or get a free Scrumble sub domain. It’s all free...",
+                  "We need a different way to standout in the crowd. And Sharing our creative process is the key! Scrumbble let’s you write case studies that tells your story of how you ended up with a solution.",
                 image:
                   "https://res.cloudinary.com/catchsahil/image/upload/v1566759772/progress_znidke.svg"
               }

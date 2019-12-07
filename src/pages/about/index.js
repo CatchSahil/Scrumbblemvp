@@ -22,13 +22,8 @@ function AboutPage(props) {
       <ContentSection
         color="white"
         size="large"
-        title="One platform that does it all..."
-        subtitle="Hire Freelancer, Manage projects, Track each 
-        member’s progress, monitor project health, 
-        assign tasks, set deadlines, Easily transfer Assets, 
-        talk to team members, weekly Scrum Reports, 
-        maintain transparency, organize feedbacks and 
-        record actions to take. All in one place..."
+        title="A platform for creative professionals..."
+        subtitle="Scrummble gives you a powerful way to showcase your project, case studies, and get discovered as a creative professional."
       />
       <TeamBiosSection
         color="white"
