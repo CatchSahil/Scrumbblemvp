@@ -23,7 +23,7 @@ function AboutPage(props) {
         color="white"
         size="large"
         title="A platform for creative professionals..."
-        subtitle="Scrummble gives you a powerful way to showcase your project, case studies, and get discovered as a creative professional."
+        subtitle="Scrumbble gives you a powerful way to showcase your project, case studies, and get discovered as a creative professional."
       />
       <TeamBiosSection
         color="white"

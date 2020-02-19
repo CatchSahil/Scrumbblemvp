@@ -23,14 +23,14 @@ function FeaturesSection(props) {
                 body:
                   "Creating and maintaining  portfolio has never been easier. Scrumbble let’s you do this with just some clicks. Connect your custom domain or get a free Scrumble sub domain. It’s all free...",
                 image:
-                  "https://res.cloudinary.com/catchsahil/image/upload/v1566759772/postproject_gviqn7.svg"
+                  "https://res.cloudinary.com/emishalabs/image/upload/v1575745990/Portfolio_h7hcpv.svg"
               },
               {
                 title: "Case Studies and Documentation",
                 body:
                   "We need a different way to standout in the crowd. And Sharing our creative process is the key! Scrumbble let’s you write case studies that tells your story of how you ended up with a solution.",
                 image:
-                  "https://res.cloudinary.com/catchsahil/image/upload/v1566759772/progress_znidke.svg"
+                  "https://res.cloudinary.com/emishalabs/image/upload/v1575745990/CaseStudies_at7ph4.svg"
               }
             ]}
           />

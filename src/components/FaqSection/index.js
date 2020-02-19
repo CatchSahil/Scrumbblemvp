@@ -17,29 +17,15 @@ function FaqSection(props) {
         <Faq
           items={[
             {
-              question: "Integer ornare neque mauris?",
+              question:
+                "For designers, there is Behance. How is it better than Behance?",
               answer:
-                "Integer ornare neque mauris, ac vulputate lacus venenatis et. Pellentesque ut ultrices purus. Suspendisse ut tincidunt eros. In velit mi, rhoncus dictum neque a, tincidunt lobortis justo."
+                "Current problems with Behance or Dribbble: Instead of sharing insights on design problem solving, most of the designers upload “visual porn”while recruiters focus on the ideas behind the final image. They need some basic indication of how we ended up with our final design. They want to know whether the designer explained their thought process? Is the business problem behind the design clear? They always ask for evidence of how we approached the problem, how they considered the business ecosystem surrounding it and how we iterated our design. So, the key here is, with each design work that users publish on Scrumbble have to go through this, write a compelling story of their design thinking process. And this will help the platform to be clutter free and will act like a filter for genuine work."
             },
             {
-              question: "Lorem ipsum dolor sit amet?",
+              question: "How does it differ from Medium?",
               answer:
-                "Nunc nulla mauris, laoreet vel cursus lacinia, consectetur sit amet tellus. Suspendisse ut tincidunt eros. In velit mi, rhoncus dictum neque a, tincidunt lobortis justo."
-            },
-            {
-              question: "Suspendisse ut tincidunt?",
-              answer:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lobortis, metus et mattis ullamcorper. Suspendisse ut tincidunt eros. In velit mi, rhoncus dictum neque a, tincidunt lobortis justo."
-            },
-            {
-              question: "Ut enim ad minim veniam?",
-              answer:
-                "Suspendisse ut tincidunt eros. In velit mi, rhoncus dictum neque a, tincidunt lobortis justo."
-            },
-            {
-              question: "In velit mi, rhoncus dictum neque?",
-              answer:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+                "First of all, it's not a blogging platform so I think we can't compare it with Scrumbble. With Scrumbble you could build your portfolio, share your past work, document your design/development stories, learnings, case studies, API documentation etc which can then be connected to your custom domain for free. And as the name suggest (Scrum + bble), it's specifically for Designers/Developers or basically for IT Industry. It's not behind a paywall so you own your content. It can be used for personal use and for public also. Basically, it's customizable and people could use it for different use cases."
             }
           ]}
         />

@@ -2,7 +2,7 @@
 
 // COLORS
 $gray: #d8d3d3;
-$primary: #03a9f4;
+$primary: #2968b2;
 $background: #ffffff;
 $navbar: #ffffff;
 $info: #209cee;
@@ -42,16 +42,16 @@ $section-padding-large: 9rem 1.5rem;
 @import "~bulma/bulma.sass";
 
 .threedbutton-blue {
-  background: #FFFFFF;
-  border: 3px solid #0867C5;
+  background: #ffffff;
+  border: 3px solid #0867c5;
 }
 
 .threedbutton {
   background-color: #ffffff;
-  border-color: #0867C5;
-  border-radius: .25rem;
-  border-width: .25rem!important;
-  box-shadow: -8px 8px 0 #0867C5;
+  border-color: #0867c5;
+  border-radius: 0.25rem;
+  border-width: 0.25rem !important;
+  box-shadow: -8px 8px 0 #0867c5;
   color: #424245;
   font-size: 1.25rem;
   font-weight: 700;
@@ -64,6 +64,6 @@ $section-padding-large: 9rem 1.5rem;
 }
 
 .mt-4 {
-  margin-top: 1.5rem!important;
+  margin-top: 1.5rem !important;
   margin-right: 1.5rem;
 }

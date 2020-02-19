@@ -23,12 +23,9 @@ function HomePage(props) {
         size="medium"
         title="Supercharge 
         your Portfolio"
-        subtitle="Scrummble gives you a powerful way to showcase your projects, skills, case studies, and get discovered as a creative professional."
+        subtitle="Scrumbble gives you a powerful way to showcase your projects, skills, case studies, and get discovered as a creative professional."
         threeDButtonText="Get Early Access"
         image="https://res.cloudinary.com/emishalabs/image/upload/v1569170268/portfolio1_ffedm1.svg"
-        threeDButtonOnClick={() => {
-          router.push("/signup");
-        }}
       />
       <FeaturesSection
         color="gray"
@@ -39,7 +36,7 @@ function HomePage(props) {
       <CtaSection
         color="primary"
         size="medium"
-        title="Become a Scrumbler Today!"
+        title="Become a Scrumbbler Today!"
         subtitle="Try the product out for free."
         buttonText="Get Early Access"
         buttonOnClick={() => {
